@@ -2,12 +2,6 @@
 
 [Full Width Pics](https://startbootstrap.com/template/full-width-pics/) is an HTML starter template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template features numerous full width background image content sections.
 
-## Preview
-
-[![Full Width Pics Preview](https://assets.startbootstrap.com/img/screenshots/templates/full-width-pics.png)](https://startbootstrap.github.io/startbootstrap-full-width-pics/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-full-width-pics/)**
-
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-full-width-pics/master/LICENSE)
