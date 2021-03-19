@@ -1,0 +1,12 @@
+{
+  "name": "carbon-test",
+  "version": "21.03.18",
+  "flags": {
+    "dryrun": true
+  },
+  "home": "<%= System.user_home() %>",
+  "paths": [ "Music", "gimp", ".local/share" ],
+  "files": [ ".alias", ".gitconfig", ".gitignore_global", ".motd" ],
+  "excludes": "/.DS_Store$|.tgz$",
+  "targets": [ "<%= home %>/backups/plaza", "dpw@piedmont.local:backups/plaza" ]
+}
