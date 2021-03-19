@@ -1,0 +1,40 @@
+{
+  "hosts": [
+    {
+      "name": "plaza",
+      "ip": "10.0.1.105",
+      "location": "office desk",
+      "os": "osx"
+    },
+    {
+      "name": "piedmont",
+      "ip": "10.0.1.220",
+      "location": "office closet",
+      "os": "ubuntu"
+    },
+    {
+      "name": "tacoma",
+      "ip": "10.0.1.136",
+      "location": "basement",
+      "os": "osx"
+    },
+    {
+      "name": "oakland",
+      "ip": "10.0.1.178",
+      "location": "office",
+      "os": "osx"
+    },
+    {
+      "name": "pompano",
+      "ip": "10.0.1.129",
+      "location": "spare bedroom",
+      "os": "osx"
+    },
+    {
+      "name": "campbell",
+      "ip": "10.0.1.186",
+      "location": "kitchen",
+      "os": "osx"
+    }
+  ]
+}
