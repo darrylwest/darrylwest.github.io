@@ -1,5 +1,5 @@
 {
-  "version": "21.03.18",
+  "version": "21.11.20",
   "home": "<%= System.user_home() %>",
   "carbon": ".carbon",
   "paths": [ "Music", "gimp", ".local/share" ],
