@@ -1,9 +1,0 @@
-{
-  "version": "21.03.18",
-  "home": "<%= System.user_home() %>",
-  "carbon": ".carbon",
-  "paths": [ "Music", "gimp", "bin" ],
-  "files": [ ".alias", ".aws", ".gitconfig", ".gitignore_global", ".motd", ".profile", ".ssh", ".bashrc", ".bash_aliases", ".devenv" ],
-  "excludes": "/.DS_Store$|.tgz$",
-  "targets": [ "<%= home %>/backups/tacoma", "s3://backup-2021/tacoma" ]
-}
