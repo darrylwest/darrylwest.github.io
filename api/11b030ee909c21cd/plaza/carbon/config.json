@@ -1,9 +1,0 @@
-{
-  "version": "21.03.18",
-  "home": "<%= System.user_home() %>",
-  "carbon": ".carbon",
-  "paths": [ "Music", "gimp", ".local/share" ],
-  "files": [ ".alias", ".aws", ".gitconfig", ".gitignore_global", ".motd", ".profile", ".ssh", ".zshenv", ".zshrc" ],
-  "excludes": "/.DS_Store$|.tgz$",
-  "targets": [ "<%= home %>/backups/plaza", "dpw@piedmont.local:backups/plaza" ]
-}
