@@ -5,4 +5,9 @@
 
 set -eu
 
-rsync -av raincitysoftware.com dpw@raincitysoftware.com:
+if [ -d .git ]
+then
+  rsync -av raincitysoftware.com dpw@raincitysoftware.com:
+else
+  printf "ERROR! run this script from the top of the repo, not `pwd`...\n\n"
+fi
