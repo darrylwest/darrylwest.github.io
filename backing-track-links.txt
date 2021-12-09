@@ -1,7 +1,11 @@
-em9 https://jamtrackschannel.bandcamp.com/
-latin https://alexmalheirosbandautopia.bandcamp.com/album/tempos-futuros
-latin/salsa https://tatavasquezandhisorchestra.bandcamp.com/album/tata-vasquez-his-orchestra-ecstasy
-latin/jazz https://franciscomora.bandcamp.com/album/mora-i-ii
-latin https://www.youtube.com/watch?v=fRt2XRSKUcI
-latin https://www.youtube.com/watch?v=H0j_xIm4fW0
-bm latin blues https://www.youtube.com/watch?v=bH6UIZDonOI
+1 em9 https://jamtrackschannel.bandcamp.com/
+1 latin https://alexmalheirosbandautopia.bandcamp.com/album/tempos-futuros
+1 latin/salsa https://tatavasquezandhisorchestra.bandcamp.com/album/tata-vasquez-his-orchestra-ecstasy
+1 latin/jazz https://franciscomora.bandcamp.com/album/mora-i-ii
+1 latin https://www.youtube.com/watch?v=fRt2XRSKUcI
+1 latin https://www.youtube.com/watch?v=H0j_xIm4fW0
+9 bm latin blues https://www.youtube.com/watch?v=bH6UIZDonOI
+1 cm9 neo soul https://www.youtube.com/watch?v=sXdODL-w2R4
+5 am latin https://www.youtube.com/watch?v=l55rGQf_vvE
+5 cm latin https://www.youtube.com/watch?v=dapaHMEG2ik
+1 em latin https://www.youtube.com/watch?v=cs1mTSyWlX0
