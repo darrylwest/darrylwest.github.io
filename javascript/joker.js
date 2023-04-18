@@ -1,4 +1,4 @@
-const VERSION = "1.0.1";
+const VERSION = "1.2";
 
 var joke_list = create_joke_list()
 
