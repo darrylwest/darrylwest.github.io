@@ -1,4 +1,13 @@
-1 em9 https://jamtrackschannel.bandcamp.com/
+how to create backing tracks for live perfs: https://www.youtube.com/watch?v=nw8wZfFSQ2w
+https://www.karaoke-version.com/ and https://www.backingtracks.pro/
+
+stem separation software
+* https://moises.ai/ (https://www.youtube.com/watch?v=2LY8g2mvmJI) (account 1426charlie)
+* https://cryo-mix.com/separator
+* https://www.lalal.ai/ (has API)
+* https://splitter.ai/
+
+
 1 latin https://alexmalheirosbandautopia.bandcamp.com/album/tempos-futuros
 1 latin/salsa https://tatavasquezandhisorchestra.bandcamp.com/album/tata-vasquez-his-orchestra-ecstasy
 1 latin/jazz https://franciscomora.bandcamp.com/album/mora-i-ii
