@@ -1,26 +1,34 @@
 # Sets
 
-## Soft Rock Covers
+## Covers
 
-* what's love got to do with it
 * witchita lineman
-* as my guitar gently weeps
+
+* livin for the city
+* isn't she lovely
 * pastime paradice
-* englishman in new york
-* king of pain
-* feilds of gold
-* blackbird
-* love is a battlefield
-* everybody wants to rule the world
-* shakey ground
 * knocks me off my feet
+
+* englishman in new york
+* every breath you take
+* feilds of gold
+
+* as my guitar gently weeps
+* blackbird
+
+* everybody wants to rule the world
 * brick in the wall
 * our house (middle of the stree)
 * havana
-* i can't make3 you love me
+* i can't make you love me
 * ain't nobody
 * just the two of us
 
+## Queued
+
+* englishman in new york
+
 ## Ripped Parts
 
-* [fast car](https://www.karaoke-version.com/custombackingtrack/tracy-chapman/fast-car.html) original key of Amaj7
+* fast car
+* what's love got to do with it
