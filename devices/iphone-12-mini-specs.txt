@@ -1,0 +1,10 @@
+name: Darryl's iPhone
+
+os: 17.4.1
+
+model: iphone 12 mini
+
+model: MG8G3LL/A
+
+serial: FD1DR07F0GRD
+
