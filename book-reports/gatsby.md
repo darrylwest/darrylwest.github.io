@@ -9,9 +9,13 @@
 * pungent
 * poignant
 * conscientious
+* corpulent
+* innuendo
+* 
 * glass of corky
 * extemporizing
 * settee
+* deft
 * uninflected
 * transcendent
 * tanked up
