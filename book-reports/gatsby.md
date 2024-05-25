@@ -1,39 +1,36 @@
-
 # Great Gatsby
 
-## Definitions
+## Required Vocabulary
 
-* feigned
-* supercilious
-* fractious
-* pungent
-* poignant
+* anaemic
+* bootlegger
+* caterwauling
 * conscientious
 * corpulent
-* innuendo
-* 
-* glass of corky
-* extemporizing
-* settee
 * deft
-* uninflected
-* transcendent
-* tanked up
-* anaemic
-* gyped
-* kike
-* harlequin
-* prodigality
-* caterwauling
-* bootlegger
-* punctilious
-* ineffable
-* shirtwaist
 * expostulation
-* pavilion
-* redolent
-* pasquinade
+* extemporizing
+* feigned
+* fractious
+* glass of corky
+* gyped
+* harlequin
+* ineffable
+* innuendo
+* kike
 * orgastic
+* pasquinade
+* pavilion
+* poignant
+* prodigality
+* punctilious
+* pungent
+* redolent
+* settee
+* shirtwaist
+* supercilious
+* tanked up
+* transcendent
 
 ## History & Geography to know before reading...
 
@@ -86,6 +83,5 @@
 * Meyer Wolfshiem
 * Walter Chase
 * Mavro Michaelis
-
 
 ###### dpw | 2024-05-25
