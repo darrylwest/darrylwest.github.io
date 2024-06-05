@@ -3,6 +3,11 @@
 ## Vocabulary
 
 * epigraph: short quotation at the beginning of a book or chapter
+* Salvagings
+* Prayvaganzas
+* Birhmobile
+* sacrilege
+* Gilead, Republic of Gileaed
 
 ## Characters and Character Types
 
@@ -18,5 +23,9 @@
 * Unwomen
 * Guardians
 * Serena Joy (the Commander's wife)
+* Eye (spy)
+* Nick - the commander's driver & guardian (also an Eye)
+* Ofglen - shopping partner
+* Luke - the lost husband
 
 ###### dpw | 2024-06-05
