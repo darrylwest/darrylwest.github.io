@@ -31,12 +31,13 @@
 * statuary - status
 * sublimation
 * frond - leaf of palm
+* reverie - pleasantly lost in thought
 
 ## Characters and Character Types
 
 * Snowman (Jimmy) (Thickney)
 * Crake - school friend, named Glenn
-* Oryx - a little girl on a porno site
+* Oryx - a little girl on a porno site; owned by Uncle En; SuSu
 * Methuselah Mouse, the Operation Immortality
 * Ramona - one of dad's lab technicians; and Dad's girlfriend
 * Sharon - mom
@@ -47,5 +48,7 @@
 * LyndaLee - jimmi's girlfriend
 * Addam and MaddAddam - 
 * Uncle Pete - Crake's uncle
+* Uncle En - Oryx's keeper
+* Jack - the camera man for Pixieland
 
 ###### dpw | 2024-06-07
