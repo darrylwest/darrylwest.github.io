@@ -25,17 +25,27 @@
 * valance - a length of decorative drapery hung above a window to screen the curtain fittings.
 * pibroch - a form of music for the Scottish 
 * lubricious - meant to arouse
+* stoic - a person who can endure pain or hardship without showing their feelings or complaining.
+* voluble - talkative
+* cretinous - foolish, stupid
+* statuary - status
+* sublimation
+* frond - leaf of palm
 
 ## Characters and Character Types
 
-* Snowman (Jimmy)
-* Crake - school friend
-* Oryx - 
+* Snowman (Jimmy) (Thickney)
+* Crake - school friend, named Glenn
+* Oryx - a little girl on a porno site
 * Methuselah Mouse, the Operation Immortality
 * Ramona - one of dad's lab technicians; and Dad's girlfriend
 * Sharon - mom
 * Delores - live-in Philippina nanny
-* Wakulla Price - crush
+* Wakulla Price - jimmy's one-sided crush
 * Killer - pet rakunk
+* Melons Riley - jimmy and glenn's teacher
+* LyndaLee - jimmi's girlfriend
+* Addam and MaddAddam - 
+* Uncle Pete - Crake's uncle
 
 ###### dpw | 2024-06-07
