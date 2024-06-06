@@ -16,14 +16,26 @@
 * pigoon organs - invented by OrganInc Farms (jimmy's dad)
 * rakunks
 * Mesozoic - between Paliozoic and Cinozoic
+* cistern - water container
+* sluice - wash with a stream of water
+* pastiche - an artistic work consisting of a medley of pieces taken from various sources
+* portico - an italian roof with support columns
+* laconic - a speaking or writing style with very few words
+* lassitude - physical or mental weariness; lack of energy
+* valance - a length of decorative drapery hung above a window to screen the curtain fittings.
+* pibroch - a form of music for the Scottish 
+* lubricious - meant to arouse
 
 ## Characters and Character Types
 
 * Snowman (Jimmy)
-* Crake
+* Crake - school friend
 * Oryx - 
 * Methuselah Mouse, the Operation Immortality
-* Ramona - one of dad's lab technicians
+* Ramona - one of dad's lab technicians; and Dad's girlfriend
 * Sharon - mom
+* Delores - live-in Philippina nanny
+* Wakulla Price - crush
+* Killer - pet rakunk
 
-###### dpw | 2024-05-25
+###### dpw | 2024-06-07
