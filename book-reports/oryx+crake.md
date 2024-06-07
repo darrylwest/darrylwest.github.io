@@ -32,12 +32,38 @@
 * sublimation
 * frond - leaf of palm
 * reverie - pleasantly lost in thought
+* coelacanth - a large boney fish
+* demiurge - a being responsible for the creation of the universe.
+* tendril - a slender threadlike appendage of a climbing plant, often growing in a spiral form
+* yeti - the abdominal snowman from the Himalayas
+* abattoir - a british slaughterhouse
+* spate - a large number of similar thiongs coming in quick succession
+* broadloom - a carpet woven with wide strands
+* carrion - the decaying flesh of dead animals
+* ampoules - a small sealed glass capsule containing liquid
+* frieze - a broad horizontal band of sculpted or painted decoration, usually on a wall
+* ersatz - an inferior substitute
+* synaesthesia - 
+* flinty - hard and unyielding; a flinty stare
+* plangent - load and resonant, mournful tone; lamenting
+* helot - a member of a class of serfs in sparta, between slaves and citizens.
+* reconnoitre - make a military observation of a region
+* priapism - endless boner
+* poltroon - utter coward
+* leman - lover
+* pullulate - multiply or spread prolifically or rapidly
+* cerements - waxed cloth for wrapping a corpse
+* trull - a prostitute
+* prattle - to talk at length in a foolish way
+* opsimath - a person who begins to learn or study only late in life
+* subfusc - dull; gloomy
+* pallor - an unhealthy pale appearance
 
 ## Characters and Character Types
 
 * Snowman (Jimmy) (Thickney)
 * Crake - school friend, named Glenn
-* Oryx - a little girl on a porno site; owned by Uncle En; SuSu
+* Oryx - a little girl on a porno site; owned by Uncle En; SuSu; Oryx Beisa (Crake's girl)
 * Methuselah Mouse, the Operation Immortality
 * Ramona - one of dad's lab technicians; and Dad's girlfriend
 * Sharon - mom
@@ -50,5 +76,8 @@
 * Uncle Pete - Crake's uncle
 * Uncle En - Oryx's keeper
 * Jack - the camera man for Pixieland
+* Bernice - vegan room mate at college; burnt Jimmy's shoes and underware
+* Crakers - the new people that Crake made,  they smelled like fruit
+* Amanda Payne - Barb Jones, an artist girlfriend after college
 
 ###### dpw | 2024-06-07
