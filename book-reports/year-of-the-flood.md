@@ -11,7 +11,7 @@
 * bleating - weak, wavering cry of a sheep, goat or cow
 * advent - the arrival of a notable person or event
 * fallow - inactive
-* amanita -  poison mushroom - kills the liver
+* amanita -  poison mushroom - kills the liver; death-cap; anamita phalloides;
 * flagellent - a person who subjects themselves or others to flogging
 * sinew - tendon or ligament
 * vicar - the deputy of a bishop
@@ -22,6 +22,10 @@
 * misanthrope - a person that dislikes human kind and society
 * sylph - imaginary spirit; a slender woman or girl
 * spandrel - triangular shape as a filler (square with circle inside)
+* soporific - tending to induce drowsiness or sleep
+* kudzu - an asian climbing plant
+* wayfarer - soneone who travels by foot; nomad
+* thrush - a small songbird; loud
 
 ## Characters and Character Types
 
@@ -35,7 +39,7 @@
 * Zeb - gardener; biker; Mad Adam; Adam Seven
 * Glenn - Crake; honey jar
 * Bernice - gardener; Ren's one-time friend
-* Nuala - garadener
+* Nuala - garadener; Eve Nine
 * Shackie and Croze - gardeners, Bioneers
 * Pilar - gardener;  Eve Six
 * Burt - the Knob; Bernice's dad
@@ -44,4 +48,4 @@
 * Philo - gardener; Philo the fog
 * Wakulla Price - Jimmy's crush, lab partner, now guide to Ren
 
-###### dpw | 2024-06-09
+###### dpw | 2024-06-10
