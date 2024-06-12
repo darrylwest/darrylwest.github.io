@@ -12,6 +12,11 @@
 * pelf - money, especially if obtained in a dishonest way
 * perloin - to steal
 * extirpated - root out and destroy completely
+* prevarication -  ambiguous or evasive language or behavior to conceal the truth 
+* ersatz - made or used as a substitute, typically an inferior one, for something else
+* Grob's Attack - unconventional openning chess move, Spike Openning; 1.g4 ; considered the worst openning move
+* oleaginous - rich in, covered with, or producing oil; oily or greasy
+* aubergine - purple eggplant
 
 
 ## Characters and Character Types
@@ -27,7 +32,7 @@
 * Zeb - Zebulan, son of the Rev and Trudy
 * Ren
 * Amanda
-* Tobi
+* Toby
 * Snowman the Jimmy
 * Crakers
 * Shakleton
@@ -40,5 +45,6 @@
 * Trudy - Zeb's mom
 * Fenella - Adam's mom
 * Wynette
+* Rhoda - Glenn/Crake's mother
 
 ###### dpw | 2024-06-12
