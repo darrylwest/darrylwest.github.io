@@ -10,7 +10,9 @@
 * rapacious - aggressively greedy
 * plaint - an accusation, as in British law
 * pelf - money, especially if obtained in a dishonest way
-* perloin - steal
+* perloin - to steal
+* extirpated - root out and destroy completely
+
 
 ## Characters and Character Types
 
