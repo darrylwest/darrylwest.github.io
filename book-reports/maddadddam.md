@@ -17,6 +17,7 @@
 * Grob's Attack - unconventional openning chess move, Spike Openning; 1.g4 ; considered the worst openning move
 * oleaginous - rich in, covered with, or producing oil; oily or greasy
 * aubergine - purple eggplant
+* palaver -  an improvised conference between two groups, typically those without a shared language or culture
 
 
 ## Characters and Character Types
