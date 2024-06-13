@@ -18,7 +18,20 @@
 * oleaginous - rich in, covered with, or producing oil; oily or greasy
 * aubergine - purple eggplant
 * palaver -  an improvised conference between two groups, typically those without a shared language or culture
-
+* hominid - a primate of a family (Hominidae) that includes humans and their fossil ancestors and some great apes
+* guile - sly or cunning intelligence
+* palaver - unnecessarily elaborate or complex procedure
+* jape - a practical joke
+* ossious - turned into bone; ossified
+* denizen -  an inhabitant or occupant of a particular place
+* enigmatic - difficult to interpret or understand; mysterious
+* amanita muscaria - hallucinogenic fungus used by some soldiers prior to war
+* carapace - hard upper shell of a turtle, crustacean, or arachnid
+* shoat - a young pig
+* hoplite - a heavily armed foot soldier of ancient Greece
+* cnidaria - a phylum of aquatic invertebrate animals that comprises the coelenterates
+* bryophyta - moss
+* coracle - a small round boat made of wickerwork covered with a watertight material
 
 ## Characters and Character Types
 
@@ -48,4 +61,4 @@
 * Wynette
 * Rhoda - Glenn/Crake's mother
 
-###### dpw | 2024-06-12
+###### dpw | 2024-06-13
