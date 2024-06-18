@@ -5,6 +5,7 @@
 * postlapsarian - occurring or existing after the fall of man, or after the fall
 * rivulet - a small stream
 * abatoir - slaughterhouse
+* sodden - saturated with liquid
 
 ## Characters
 
@@ -18,8 +19,10 @@
 * Max & Jasmine: Jasmine is Charmaine, Max is Phil, married to Jocelyn
 * Jocelyn ; Max/Phil's wife
 * Bill Nairn: pharmacist in the twin cities
-* Clint the prison barber
-* Ed - the primary twin cities administrator
+* Clint: the prison barber
+* Ed - CEO Positron Project
+* Aurora - guard
+* Lucinda Quant: The Home Front show
 
 ## Character Types
 
