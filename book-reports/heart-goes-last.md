@@ -6,6 +6,9 @@
 * rivulet - a small stream
 * abatoir - slaughterhouse
 * sodden - saturated with liquid
+* palliative - receiving care without knowing the underlying illness
+* ensconced - established or settled in a safe, sometimes secret place
+* carapace - the hard upper shell of a turtle; a defensive covering
 
 ## Characters
 
