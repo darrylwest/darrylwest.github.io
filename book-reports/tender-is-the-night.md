@@ -28,6 +28,7 @@
 * Monte Carlo
 * Tarmes
 * La Turbie
+* Amiens, north of Paris
 
 ## Vocabulary
 
@@ -53,4 +54,4 @@
 * assignation - a secret appointment or meeting
 
 
-###### dpw | 2024-06-29
+###### dpw | 2024-07-01
