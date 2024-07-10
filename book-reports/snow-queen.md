@@ -20,6 +20,10 @@
 * Geia Jerusha PalaThion - Carbunckle police inspector
 * Gundhalinu - Jerusha's assistant
 * Kirard Set, and elder of the Wayaways family
+* Danaquil Lu - quiet, shy man; lover to Clavally; Dana Winter--a sibyl; sent into exile from Carbunckle
+* Ravenglass family; mask makers
+* Fate Ravenglass Winter - the blind maskmaker that houses/trains Spark
+* Malkin - Fate's cat
 
 ## Places
 
@@ -31,6 +35,7 @@
 * Citron Ally - maskmaker
 * Uptown
 * The Hall of Winds, Trial by Air
+* The Nothing Place
 
 ## Vocabulary
 
@@ -42,6 +47,8 @@
 * keening - wail in grief for a dead person
 * whorl - a pattern of spirals or concentric circles, like a finger print
 * airie - a large nest of a bird of prey, especially an eagle
+* desultory - lacking a plan, purpose, or enthusiasm:
+* scrimshaw -  adorn with carved or colored designs
 
 
 ###### dpw | 2024-07-07

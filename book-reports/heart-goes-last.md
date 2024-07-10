@@ -26,6 +26,9 @@
 * Ed - CEO Positron Project
 * Aurora - guard
 * Lucinda Quant: The Home Front show
+* Ngenet ran Ahase Miroe - Miroe Ahase? hovercraft driver
+* Jerusha PalaThion - inspector
+* Gundhalinu - pilot/controller
 
 ## Character Types
 
