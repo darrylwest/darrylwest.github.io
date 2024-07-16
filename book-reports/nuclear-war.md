@@ -7,7 +7,18 @@
 * General Nuclear War - 275 M russions, 325 moe from fallout, 300 M Chinese
 * SBIRS - fire spotter at 22,300 miles orbit
 * NRO - National Reconnaissance Office
-* ICBM - ground launched intercontinental balistic missle
+* ICBM - ground launched intercontinental balistic missle; Boost Ascent; Midcourse, Terminal phases
+* Hwawong-17 ballistic missle
+* NORAD - norht american aerospace defence
+* NORTHCOM - US northern command
+* STRATCOM - US strategic command, Omaha Nebraska, Offutt AB
+* EMP - electro-magnetic pulse (takes out electrical grid + components)
+* Launch on Warning - the concept of lauching retaliation on just a warning
+* Hair-Trigger Alert - always ready to deploy nuclear arsenal
+* RD-250 - russion ICBM rocket engine
+* MQ-9 Reaper drone - take out ICBM during boost phase
+* SBX - Sea-Based X-Band Radar station (looks like an off-shore drilling platform); 10-billion dollar bad radar
+* PEOC - presidential emergency operations center, hardened bunker beneath the east wing
 
 ## Notable Persons
 
@@ -19,16 +30,24 @@
 ## Places
 
 * Offutt Air Force Base, Nebraska; missle warning
-* Cheyenne Mountain Complex, Colroado
+* Cheyenne Mountain Complex, Colroado - brain-stem for NORAD, NOCOM, STRATCOM
+* Peterson Space Force Base, Colorado - NORAD headquarters
 * Pentagon, Washington
+* Clear Space Force Statio, Fairbanks, Alaska
 * Hiroshima - 1945 80,000 dead in single strike
 * Nagasaki - 1945 second drop
 * Bakini Atoll, Marshal Islands - 42,000 observers of Operation Crossroads, 1946
 * Elugela, Marshal Islands, Ivy Mike 10.4 Megaton h-bomb (the island is now gone after test)
 * Pyongyang, North Korea
-* Buckley Space Force Base, Aurora Colorado - NRO
-* Fort Belvoir, Virginia - NRO
+* Buckley Space Force Base, Aurora Colorado - NRO, Space Delta 4 strategic warning for NORAD, NORTHCOM, STRATCOM
+* Fort Belvoir, Virginia - NRO, Missle Defence Agency Headquarters
 * White Sands, New Mexaco - NRO
+* Kure Atoll, North Pacific Ocean, home of SBX radar
+* Beale Air Force Base, California
+* Cape Code Space Force Station, Mass
+* Cavalier Space Force Station, North Dakota
+* Pituffik Space Base, Greenland (formally Thule)
+* Royal Air force Fylingdales, UK
 
 ## Notable Dates / Times
 
@@ -41,5 +60,6 @@
 * 1956 - 3,692
 * 1960 - 18,638, nukes, world population 3 billion
 * 1967 - 31,255
+* 2017 - North Korea gets RD-250 stolen from Russia
 
-###### dpw | 2024-07-15
+###### dpw | 2024-07-16
