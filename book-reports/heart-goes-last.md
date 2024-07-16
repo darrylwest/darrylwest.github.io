@@ -9,6 +9,8 @@
 * palliative - receiving care without knowing the underlying illness
 * ensconced - established or settled in a safe, sometimes secret place
 * carapace - the hard upper shell of a turtle; a defensive covering
+* quay - a concrete, stone, or metal platform lying alongside or projecting into water for loading and unloading ships.
+* stolid -  calm, dependable, and showing little emotion or animation
 
 ## Characters
 
@@ -29,6 +31,9 @@
 * Ngenet ran Ahase Miroe - Miroe Ahase? hovercraft driver
 * Jerusha PalaThion - inspector
 * Gundhalinu - pilot/controller
+* Ngenet / Mirow - hovercraft pilot
+* Elsie/Elsevier - owner of Black Deeds Inn
+* Cress - Elsie's friend (with Silky)
 
 ## Character Types
 
@@ -37,4 +42,4 @@
 * alternates - couples that go between the twin cities
 * twin cities: Positron: the prison and Conselience the house
 
-###### dpw | 2024-06-18
+###### dpw | 2024-07-12
