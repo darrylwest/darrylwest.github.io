@@ -49,6 +49,7 @@
 * airie - a large nest of a bird of prey, especially an eagle
 * desultory - lacking a plan, purpose, or enthusiasm:
 * scrimshaw -  adorn with carved or colored designs
+* retinue - group of advisors
 
 
-###### dpw | 2024-07-07
+###### dpw | 2024-07-22
