@@ -17,10 +17,10 @@
 * Ma Gang - lumberjack, construction corps
 * Cheng Lihua - female cadre
 * PLA - peoples liberation army
-* Commissar Lei Zhicheng of Red coast Base, PLA.
+* Commissar Lei Zhicheng of Red coast Base, PLA.; Wenjie's boss at Red Coast
 * Yang Weining, base chief engineer, PLA - and Ye Zhetai's grad student
 * PLA's Second Artillery Corps - controls China's nuclear missles
-* Wang Miao - professor, nanomaterial research; photographer, bike rider; husband, father
+* Wang Miao - professor, nanomaterial research; photographer, bike rider; husband, father (Xiao Wang)
 * Captin Shi Quang - PLA, bad guy, Da Shi (big shi)
 * Major General Chang Weisi - Battle command center
 * Yang Dong - killed herself
@@ -29,11 +29,13 @@
 * Shen Yufei - Japanese physicist, Frontiers of Science
 * Wei Cheng, Shen's husband
 * Professor Zhang - Wang Miao's neighbor
-* Pan Han, member of Frontiers of Science; biologist
+* Pan Han, member of Frontiers of Science; biologist; leader of Three Body game meetups; killer of Shen Yufei
 * King Wen - in the game ; Chaotic Era (aka, Ji Chang)
 * The follower - Wen's helper
 * Fu Xi - man in black in the game at the city of Zhao Ge
 * Sha Ruishan - Ye's student, receiving satellite data; cosmic microwave background maps; Ye Wenjie's student
+* Mozi (game player) - founder of the Mohist school o f philosophy; engineer and geometer.
+* Xu Bingbing - computer specialist from Information Security Division
 
 ## Places
 
@@ -52,7 +54,8 @@
 * www.qsl.net/bg3tt/zl/mesdm.htm
 * Zhao Ge - game destination, yin meets yang
 * 3K glasses to observe microwave background
-Er guo tou - a distilled liquor made from sorghum - Chinese vodka
+* Er guo tou - a distilled liquor made from sorghum - Chinese vodka (e.r. go too)
+* Yunhe Coffee Shop, Xicheng District
 
 ## Vocabulary
 
@@ -65,5 +68,17 @@ Er guo tou - a distilled liquor made from sorghum - Chinese vodka
 * haptic - relating to the sense of touch, in particular relating to the perception and manipulation of objects using the senses of touch and proprioception
 * Hairen - man of the sea
 * isotropic -  not varying in magnitude according to the direction of measurement
+* armillary sphere - a model of the celestial globe constructed from rings and hoops representing the equator, the tropics, and other celestial circles, and able to revolve on its axis
+* dun - a brownish color
+* saltatory - abrupt evolutionary change; sudden large-scale mutation
+* gradualistic - the hypothesis that evolution proceeds chiefly by the accumulation of gradual changes
+* Monte Carlo method - contain a shape; throw balls at the container; use the hits to calculate the area.
+* indolent -  wanting to avoid activity or exertion; lazy
+* syzygy - a conjunction or opposition, especially of the moon with the sun (siz a gee)
+* abstruse - difficult to understand; obscure
+* Trisolaris - 3 Body
+* mien - a person's look or manner
+* Roche limit: the distance between two celestial bodies such that the smaller body is torn apart the the tidal forces of the larger body; the closest distance from the center of a planet that a satellite can approach without being pulled apart by the planet's gravitational field
+* Adventist - the closest distance from the center of a planet that a satellite can approach without being pulled apart by the planet's gravitational field; Seventh Day Adventist
 
-###### dpw | 2024-07-24
+###### dpw | 2024-07-25
