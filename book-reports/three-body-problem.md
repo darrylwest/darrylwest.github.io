@@ -8,7 +8,7 @@
 * Red Union Commander
 * 1,700 Academics killed in Beijing over forty days of rebelion
 * Ye Zhetai - physics professor at Tsinghau U.
-* Ye Wenjie - daughter of professor Zhetai
+* Ye Wenjie - daughter of professor Zhetai; Commander of 3Body
 * Ye Wenxue - Wenjie's younger sister and radical Red Guard
 * Professor Ruan Wen - Wenjie's advisor and friend
 * theory of relativatiy - banner of capitalism
@@ -36,6 +36,7 @@
 * Sha Ruishan - Ye's student, receiving satellite data; cosmic microwave background maps; Ye Wenjie's student
 * Mozi (game player) - founder of the Mohist school o f philosophy; engineer and geometer.
 * Xu Bingbing - computer specialist from Information Security Division
+* Mike Evans - mastermind behind the Adventists; son of billionnarre oil father
 
 ## Places
 
@@ -56,6 +57,7 @@
 * 3K glasses to observe microwave background
 * Er guo tou - a distilled liquor made from sorghum - Chinese vodka (e.r. go too)
 * Yunhe Coffee Shop, Xicheng District
+* Judgement Day - the second red-coast base (the ship)
 
 ## Vocabulary
 
@@ -80,5 +82,8 @@
 * mien - a person's look or manner
 * Roche limit: the distance between two celestial bodies such that the smaller body is torn apart the the tidal forces of the larger body; the closest distance from the center of a planet that a satellite can approach without being pulled apart by the planet's gravitational field
 * Adventist - the closest distance from the center of a planet that a satellite can approach without being pulled apart by the planet's gravitational field; Seventh Day Adventist
+* ETO - Earth Trisolaris Organization?
+* Xiao - Sir, or mister; a sign of respect
+* gossamer - a fine, filmy substance consisting of cobwebs spun by small spiders
 
-###### dpw | 2024-07-25
+###### dpw | 2024-07-26
