@@ -15,13 +15,20 @@
 * Vrie Guyen - Gilgamesh commander
 * Karst - security detail
 * Renas Vitas - head of scientific team
+* Scoles - man with gun
+* Brenjit Nessel - woman colonist
+* Tevik - mutineer pilot
+* Bales - mutineer clinician's assistant
 
 ### Spider
 
 * Portia - 8mm (Portia labiata), jumping spider, sri lanka, 60K neurons; evolved to 0.5 meters
 * Bianca - evolved from Portia
-* The male
+* The male - no name
+* Fabian - guide to lands to the North
 * Spitters
+* Ants - the enemy
+* Paussid beetles - ant killers
 
 ## Places
 
@@ -29,10 +36,14 @@
 * Simiana - the destination (Kern's World)
 * Gilgamesh - ark ship
 * The Great Nest by Western Ocean - spider land with aphids
+* Second Brin Sentry Habitat - Kern's world
+* Earth - damaged by nuclear war; frozen and poisoned
+* Seven Trees - Portia's (the new one)
 
 ## Vocabulary
 
 * organelle - any of a number of organized or specialized structures within a living cell.
+* arachnid - spider
 * insensate - lacking physical sensation
 * evinced  - revealed the presence of
 * delorously - in keeping with good taste and propriety; polite and restrained
@@ -43,5 +54,22 @@
 * vertiginous - causing vertigo, especially by being extremely high or steep
 * aphid - a minute bug that feeds by sucking sap from plants. It reproduces rapidly, often producing live young without mating, and may live in large colonies that cause extensive damage to crops
 * creche - a nursery where babies and young children are cared for during the working day
+* carapace - the hard upper shell of a turtle, crustacean, or arachnid
+* verdant - of the bright green color of lush grass
+* countenance - admit as acceptable or possible:
+* provenance - place of origin
+* insuperable - impossible to overcome
+* ineluctable - unable to be resisted or avoided; inescapable
+* classicist - one who studies the classics, Greek and Latin
+* conurbation - an extended urban area
+* ineffable - too great or extreme to be expressed or described in words
+* votive - offered or consecrated in fulfillment of a vow
+* equanimity - mental calmness, composure, and evenness of temper
+* Dulce et Decorum est - it is sweet and fitting to die for one's country (Wilfred Owen, WWI)
+* envisage - contemplate or conceive of as a possibility
+* chitin - a fibrous substance consisting of polysaccharides and forming the major constituent in the exoskeleton of arthropods and the cell walls of fungi
+* pupae - an insect in its inactive immature form between larva and adult, e.g. a chrysalis
+* approbation - approval or praise
 
-###### dpw | 2024-08-02
+###### dpw | 2024-08-04
+
