@@ -29,6 +29,7 @@
 * Spitters
 * Ants - the enemy
 * Paussid beetles - ant killers
+* Viola - science
 
 ## Places
 
@@ -70,6 +71,21 @@
 * chitin - a fibrous substance consisting of polysaccharides and forming the major constituent in the exoskeleton of arthropods and the cell walls of fungi
 * pupae - an insect in its inactive immature form between larva and adult, e.g. a chrysalis
 * approbation - approval or praise
+* desiccate - remove moisture from to preserve it
+* reverie - pleasantly lost in  one's thoughts, daydreaming
+* heretical - believing in or practicing religious heresy
+* seraglio - the women's apartments (harem) in an Ottoman palace
+* salutary - producing good effects; beneficial
+* skein - a length of thread or yarn, loosely coiled and knotted
+* perloin - steal
+* confligration - an extensive fire that destroys a great deal of land or property
+* vicissitude - a change of circumstances or fortune typically on that is unwelcome or unpleseant
+* gainsay - deny or contradict; speak against or oppose
+* detritus - waste or debris of any kind
+* polemic - a strong written or verbal attack on someone or something
+* denizen - an inhabitant or occupant of a particular place
+* simian - relating to, resembling, or affecting apes or monkeys
+* fecund - producing or capable of producing an abundance of offspring or new growth; fertile
 
-###### dpw | 2024-08-04
+###### dpw | 2024-08-06
 
