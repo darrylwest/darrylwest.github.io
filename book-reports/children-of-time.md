@@ -19,6 +19,7 @@
 * Brenjit Nessel - woman colonist
 * Tevik - mutineer pilot
 * Bales - mutineer clinician's assistant
+* Alpash - ship-born
 
 ### Spider
 
@@ -49,7 +50,7 @@
 * evinced  - revealed the presence of
 * delorously - in keeping with good taste and propriety; polite and restrained
 * simulacrum - an image or representation of someone or something
-* ersatz -  not real or genuine
+* ersatz - made or used as a substitute, typically an inferior one, for something else; not real or genuine
 * cupola - a small dome, especially a small dome on a drum on top of a larger dome, adorning a roof or ceiling; gun turret
 * palp - each of a pair of elongated segmented appendages near the mouth of an arthropod, usually concerned with the senses of touch and taste.
 * vertiginous - causing vertigo, especially by being extremely high or steep
@@ -86,6 +87,9 @@
 * denizen - an inhabitant or occupant of a particular place
 * simian - relating to, resembling, or affecting apes or monkeys
 * fecund - producing or capable of producing an abundance of offspring or new growth; fertile
+* facuous - silly and pointless
+* tendril - a slender threadlike appendage of a climbing plant, often growing in a spiral form, that stretches out and twines around any suitable support.
+* filigree - ornamental work of fine wire
 
 ###### dpw | 2024-08-06
 
