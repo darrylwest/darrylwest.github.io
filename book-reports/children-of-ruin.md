@@ -16,13 +16,16 @@
 * Siri Skai - on Nod; geologist
 * Avrana Kern (Senkovi met her)
 * Helena Holsten Lain - 
-* Meshner Osten Oslam
-* Zaine Alpash Vannix - lean woman
+* Meshner Osten Oslam - partners with Fabian; implants
+* Zaine Alpash Vannix - lean woman; partnered with Viola
 
 ### Animal
 
 * Paul - pacific striped octopus
 * Salome - octopus; tries to eat Aegean ship
+* Rebekah - pilot of Requisitioner and the Wonder
+* Noah
+* Abigail
 * Saul
 * Ruth
 * Methuselah
@@ -44,6 +47,8 @@
 * Kern's World
 * The Voyager
 * Lightfoot - scout vessel from Voyager
+* The Requisitioner - military ship
+* The Wonder - fighter
 
 ## Vocabulary
 
@@ -69,5 +74,19 @@
 * jink - change direction suddenly and nimbly, as when dodging a pursuer
 * dooyenne - the most respected woman in a particular field
 * dendritic - branch form resembling a tree
+* insensate - lacking phyical sensation; lacking sympathy or compassion; unfeeling
+* gnarled - knobby, reough, twisted with age; gnarly
+* inure - accustom to something, especially unpleasant
+* verisimilitude - the appearance of being true or real
+* timorous - showing or suffering from nervouseness, fear, or lack of confidence
+* furtive - attempting to avaoid notice or attention;
+* pipette - a slender tube attached to or incorporating a bulb
+* tardigrade - a minute animal of the phylum ; a water bear
+* aetiology - medical cause
+* keen - wail in grief for a dead person;
+* temerity - excessive confidence or boldness; audacity
+* detritus - waste or debris of any kind
+* orrery - mechanical representation of a solar system
+* solicitude - care or concern for someone or something
 
-###### dpw | 2024-08-09
+###### dpw | 2024-08-18
