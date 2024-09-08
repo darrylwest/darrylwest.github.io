@@ -1,5 +1,7 @@
 # Chosen - A Dystopian Novel
 
+(5 book series)
+
 ## Characters
 
 * Silverstasia - Silver
