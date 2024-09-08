@@ -51,5 +51,6 @@
 * scrimshaw -  adorn with carved or colored designs
 * retinue - group of advisors
 
+4 stars
 
 ###### dpw | 2024-07-22

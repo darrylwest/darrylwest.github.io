@@ -43,5 +43,7 @@
 * Boston
 * New York City
 
+5 stars
+
 ###### dpw | 2024-08-31
 

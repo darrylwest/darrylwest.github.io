@@ -1,6 +1,5 @@
 # No Man's Land
 
-
 ## Characters
 
 * Rebel Anne Rae - 2035; aka Anne Frank
@@ -32,5 +31,7 @@
 * the moon
 * Santa Cruz
 * Cascades, Nisqually River
+
+5 stars
 
 ###### dpw | 2024-09-01

@@ -80,4 +80,6 @@
 * Crakers - the new people that Crake made,  they smelled like fruit
 * Amanda Payne - Barb Jones, an artist girlfriend after college
 
+5 stars
+
 ###### dpw | 2024-06-07

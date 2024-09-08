@@ -79,4 +79,6 @@
 * 2017 - North Korea gets RD-250 stolen from Russia
 * 2016 - North Korea launches space satellite with large payload; EMP attack now possible
 
+4 stars
+
 ###### dpw | 2024-07-18

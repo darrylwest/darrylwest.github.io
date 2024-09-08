@@ -21,7 +21,7 @@
 * Harald Okoro - SEC
 * Monica Harding - SEC 
 * Brennan - FBI
-* David F williams - NSA
+* David F Williams - NSA
 * Williams - NSA
 * David Green - layer for ...
 
@@ -29,11 +29,13 @@
 
 * AGI - artificial general intelleigence
 * ASI - artificial super intelleigence
-* sommelier -- wine stewar
+* sommelier -- wine stewart
 
 ## Places
 
 * Boston
 * New York City
+
+5 stars
 
 ###### dpw | 2024-08-27

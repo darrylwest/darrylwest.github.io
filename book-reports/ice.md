@@ -1,6 +1,5 @@
 # Ice
 
-
 ## Characters
 
 * the narrator
@@ -27,5 +26,7 @@
 * cabochon - a gem polished but not faceted
 * anthracite - coal of almost pure carbon
 * inure - accustom to something, especially something unpleasant
+
+3 stars
 
 ###### dpw | 2024-06-20

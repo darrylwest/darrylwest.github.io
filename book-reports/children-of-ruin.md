@@ -89,4 +89,6 @@
 * orrery - mechanical representation of a solar system
 * solicitude - care or concern for someone or something
 
+5 stars
+
 ###### dpw | 2024-08-18

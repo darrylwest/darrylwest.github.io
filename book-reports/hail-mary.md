@@ -43,4 +43,6 @@
 * quaver - shake or tremble in speaking, typically through nervousness or emotion
 * thrum - a continuous rhythmic humming sound
 
+5 stars
+
 ###### dpw | 2024-06-24

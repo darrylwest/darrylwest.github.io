@@ -13,7 +13,6 @@
 * Mindy Park - Mars satellite observer
 * Annie Montrose - NASA press
 * Rich Purnell - NASA programmer
-* 
 
 * Hermes - the transport to mars powered by argon
 * Mars Ascent Vehicle MAV
@@ -29,5 +28,7 @@
 * trundle - move slowly
 * titration - measuring
 * akimbo - standing with hands on hips
+
+5 stars
 
 ###### dpw | 2024-06-26

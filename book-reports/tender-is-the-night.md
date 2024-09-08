@@ -1,6 +1,5 @@
 # Tender is the Night
 
-
 ## Characters
 
 * Rosemary Hoyt - American actress
@@ -53,5 +52,6 @@
 * repose - composure
 * assignation - a secret appointment or meeting
 
+2 stars
 
 ###### dpw | 2024-07-01

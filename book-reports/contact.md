@@ -74,4 +74,6 @@
 * bier - a movable frame on which a coffin or a corpse is placed before burial or cremation or on which it is carried to the grave
 * samizdat - the clandestine copying and distribution of literature banned by the state, especially formerly in the communist countries of eastern Europe
 
+5 stars
+
 ###### dpw | 2024-07-30
