@@ -42,6 +42,8 @@ A.G. Riddle
 * Colonel Earls
 * Angela Stevens - Corporal
 * Arthur - alien
+* Captain Brightwell - British
+* Sam Eastman - child that Emma & James adopt
 
 
 ### Aliens and Fleets
@@ -86,5 +88,6 @@ A.G. Riddle
 * magic square - 3x3 cube of unique numbers where all rows, columns and diagonals sum to the same number: 8, 1, 6; 3, 5, 7; 4, 9, 2 = 15
 * yardangs - a sharp ridge of compact sand formed by the prevailing wind
 * ejecta - plural of ejected material forced or thrown out
+* reconnoiteer - make a military obserevation of a region
 
-###### dpw | 2024-09-16
+###### dpw | 2024-09-18
