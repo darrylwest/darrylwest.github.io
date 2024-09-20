@@ -42,8 +42,10 @@ A.G. Riddle
 * Colonel Earls
 * Angela Stevens - Corporal
 * Arthur - alien
-* Captain Brightwell - British
+* Colonel Brightwell - British
 * Sam Eastman - child that Emma & James adopt
+* Alphred - Jerico's AI
+* Eos rex, E.rex
 
 
 ### Aliens and Fleets
@@ -60,7 +62,9 @@ A.G. Riddle
 * The Grid
 * New ISS
 * Centurion drones
-* Spaceships/Supercarriers ; first one is Jericho
+* Canary One (penguin one) - earth survivor search drone
+* Jerico - Spaceships/Supercarriers to Eos
+* Carthage -  second ship to Eos
 
 ## Places
 
@@ -73,6 +77,8 @@ A.G. Riddle
 * KSC - Kennedy Space Center
 * Ceres - the battle of Ceres against the harvester
 * Keuiper Belt - Pluto + other dwarf planets
+* Eos - the new world
+* Jericho City - first planed settlement on Eos
 
 
 ## Vocabulary
@@ -89,5 +95,6 @@ A.G. Riddle
 * yardangs - a sharp ridge of compact sand formed by the prevailing wind
 * ejecta - plural of ejected material forced or thrown out
 * reconnoiteer - make a military obserevation of a region
+* stasis - 1) a period of state of inactivity or equilibrium; 2) stoppage of flow of body fluid;
 
-###### dpw | 2024-09-18
+###### dpw | 2024-09-20
