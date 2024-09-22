@@ -47,6 +47,11 @@ A.G. Riddle
 * Alphred - Jerico's AI
 * Eos rex, E.rex
 
+## Lost Colony: Book 3
+
+### Characters: 
+
+* Corporal Ryan Young - injured
 
 ### Aliens and Fleets
 
