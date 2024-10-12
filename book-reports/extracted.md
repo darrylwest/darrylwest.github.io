@@ -10,6 +10,8 @@ RR Haywood
 
 ### Characters
 
+#### Book 1
+
 * Roland
 * Roland's son
 * Ben Ryder - aka. Ben Calshott - insurance investigator
@@ -30,6 +32,23 @@ RR Haywood
 * Mother - ? bad guys' boss
 * Dr John Watson - decendant to John Hamish
 
+#### Book 2
+
+* Tango Two - government agent; aka: Emily Rose
+* Lucas - smurf
+* Maggie Sanderson - Miri
+* Ria
+
+#### Book 3
+
+* Roger Downtree - Mother's replacement as head of British Secret Service
+* Colin Brough - aid to British PM
+* Veronica Smedley - British PM
+* Alpha - brought back by Mother
+* Gungeep Singh - Technical Officer for Mother
+* Rodney - Mother's historian
+* Kate - Mother's daughter, Alpha's lover
+
 ## Places
 
 * London
@@ -39,7 +58,9 @@ RR Haywood
 * Portal - the door thing
 * Berlin
 * Pangia
-
+* The Bunker - 100M years in past; Harry, Safa, Ben, etc
+* The Island - 20K in past - Bertie
+* The Complex - British SS, Mother's
 
 ## Vocabulary
 
@@ -56,7 +77,16 @@ RR Haywood
 * deft - neatly skilldful and quick
 * ablurtions - washing your body; shower
 * nadir - a person or entity at it's lowest point
+* Sun Tzu - art of war
+* ‘Quis custodiet ipsos custodes?’ - who will guard the guards, or who watches the watchers?
+* bellend - end of a dick
+* holdall - gym bag
+* rakish - habituated to immoral conduct, womanizing
+* Hadrian's Wall - Roman wall in Britannia 122 AD
+* plinth - a pedestal to support a statue
+* crenulation - 
+* sinew - a tough band of dense fibrous connective tissue connecting muscle to bone
 
 
-###### dpw | 2024-09-23
+###### dpw | 2024-10-10
 
