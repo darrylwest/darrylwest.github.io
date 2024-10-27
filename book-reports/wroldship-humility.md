@@ -41,7 +41,7 @@ RR Haywood
 * Igor & Wife - with Bert
 * Janey Harrington - FS worker; works with Mahatma; new friend to Yasmine
 
-#### Book 2
+#### Book 2: Elfor Drop
 
 * Jorgey Raynor - police chief; Zhang's boss
 * Colin - police, works for Abdul
@@ -52,7 +52,7 @@ RR Haywood
 * Ferdy - owner of Hocus Pocus nightclub
 * Kasim - Kristi's boss?
 * Teddy Fox - news caster
-* Rona - Kristi's camera operator
+* Rona - Kristi's camera operator; knows Quiet man
 * Dilbert - worker from the Elfors
 * Faiza - guard
 * Yuey - Zhang Woo's old rival/girlfriend from WS Beijing
@@ -62,7 +62,26 @@ RR Haywood
 * Po Lee - young constable on WS Beijing;
 * Yoo - Zhang's mother, head of police WS Beijing
 * Marianne - civil rights lawyer
-* Sun
+* Sun - teamed with Yassy to spy on Arc
+* Chi-Chi - singer, star
+* Trudy Marlow - 
+* Alena - elfon, knows Yassy
+* Quiet man - bad guy; has Pierre working for him; Hector, one of the Six
+* Petra - bad woman; works for Quiet man
+* Drago - federal commander
+
+#### Book 3: Elfor One
+
+* The six: Illuminati: Jade Emperor, Heremes, Plutus (Albert), Shango, Lakshmi, Shango, Ares, Venus
+* Jade Emperor - owns the Ark
+* Hector Baptiste - Quiet man, works with the Six
+* Petra - works for the Six
+* Constable Po Lee - now on the Chastity
+* Marianne Kruger - civil rights lawyer
+* Dom Patel - retail councillor (ex)
+* Tatianna - aka Tidy Tatty, elfor on the WS Chastity
+* Albert Edwards - on the WS Britannica; one of the Six (Plutus); owner of Fleet Finance
+* Dilly Dally Dolly - elfor pilot
 
 ## Places
 
@@ -78,6 +97,9 @@ RR Haywood
 * The Arc - biggest WS that controls the fleet
 * Air-lock delta - where Sam works
 * Shuttle Gonsales
+* Bustees - slum on the Mumbai
+* Cabin 58, Row G, Level 35 - Sam/Yassi's place
+* Cabin 39, Ro H Level 34 - Zhang and Krisi's place
 
 ## Vocabulary
 
@@ -86,6 +108,8 @@ RR Haywood
 * gantry - overhead bridge
 * Klaxons - a British rock band
 * guile - street fighter
+* clappers - bell, musical instrument
+* hoi polloi - the many as in the people, masses
 
 ###### dpw | 2024-10-19
 
