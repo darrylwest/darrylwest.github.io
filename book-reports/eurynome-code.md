@@ -53,6 +53,20 @@ K. Gorman
 * Cary Avan - Chamak guard; Private Second Class
 * big guy - Project Aries
 * Talanus - Dr Sasha's son; grown in a tank
+* Dr Eric Lin - Neurologist, Ajin Pharma
+* Dr Shinji Tasuhada - Cybernetic specialist, Ajin Pharma
+* Brian Ling - pediatrician, assistant to Shinji
+
+d# Book 4: World Shift
+
+### Characters:
+
+* Corporal Tian Adan Reeve - Karin's military pilot and bodygaurd
+* Naser - young doctor at Ajin Pharma
+* Dr Nguyen - 
+* Genevieve - project Artemis
+* Jon Patrim - project Aries
+* Ione Kalivas - project Eosphoros 
 
 ## Places
 
@@ -91,6 +105,7 @@ K. Gorman
 * Macedonia - Eurynaome site after Brazil
 * Yokohama City - in western Chamak
 * Lokabrenna and Aschere - twin Sun as seen from Chamak
+* Shin Okayama - Ajin Pharmaceuticals
 
 ## Vocabulary
 
@@ -105,5 +120,6 @@ K. Gorman
 * lanyard - a cord passed arountd the neck ; for holding a knife
 * passel - a large group of people or things of indeterminate number; a pack
 * nonplussed - surprised and confused; unsure how to react
+* soporific - tending to induce drowsiness or sleep
 
 ###### dpw | 2024-11-11
