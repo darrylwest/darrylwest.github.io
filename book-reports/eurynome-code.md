@@ -57,16 +57,54 @@ K. Gorman
 * Dr Shinji Tasuhada - Cybernetic specialist, Ajin Pharma
 * Brian Ling - pediatrician, assistant to Shinji
 
-d# Book 4: World Shift
+## Book 4: World Shift
 
 ### Characters:
 
-* Corporal Tian Adan Reeve - Karin's military pilot and bodygaurd
+* Tian Adan Reeve - Karin's military pilot and bodygaurd
 * Naser - young doctor at Ajin Pharma
 * Dr Nguyen - 
 * Genevieve - project Artemis
 * Jon Patrim - project Aries
 * Ione Kalivas - project Eosphoros 
+* Saia - avionics for Fallon military
+* Kozawa - Fallon General
+* Crane - Fallon General
+* Arren - Alliance Commander
+* Pranav - Alliance science guy
+* Dr Lang - Alliance
+* Dr Ma - Alliance
+* David Strick - Alliance
+* Baik - Alliance commander; Fulani Prince; has quicksave
+* Warren - corporal Alliance
+* Seras - Alliance
+* Laika - Alliance
+* Colahary - Alliance
+* Dr. Loran Lamond - Alliance 
+* Lenora - Project Skogul
+
+## Book 5: Awakening
+
+### Characters:
+
+* Chul - Soo-jin's unkle on 
+* Tia - project Eurynome
+* CC -
+* Lorraine Pocaire - Captain of Finlai Center Core
+* Scaro Prell - Centauri solder
+* Colonel Tyrell - Centauri solder
+* Daniel Lacroix - Centauri technician (captured)
+* Azrikam Devnarth Leisler - Grand Regent of Arms / Menassi TriQuad Alliance / Centauri
+* Sarah Ursule Tillerman - Centauri Commander of Menassi Tri-Quad Alliance
+
+## Book 6: Deos
+
+### Characters:
+
+* Eriuc Kalinsky - Earth US/UN rep
+* Lorraine Ganis - Marine Colonel for the Alliance
+* Alice Laang - Martian ambassador
+* Bella Adamiak - Alliance scientist
 
 ## Places
 
@@ -106,6 +144,19 @@ d# Book 4: World Shift
 * Yokohama City - in western Chamak
 * Lokabrenna and Aschere - twin Sun as seen from Chamak
 * Shin Okayama - Ajin Pharmaceuticals
+* Takao - on Kori
+* FSS Manila - Fallon starship; defense for Chamak Udyaan
+* Orcas NOV0233 - Alliance warship
+* Nagato - sister ship to FSS Manila
+* Nova Earth - Alliance planet
+* Lemoore - Alliance land vehicle
+* Pamona - Alliance HQ on Nova 
+* Soo-jin's home town, close to Pamona
+* The Gate - surrounds old Earth
+* Manila - Fallen war ship
+* Alpha Centauri
+* FSS Courant - Fallon ship piloted by Reeve
+* Finlai Center Core - Centauri nation in orbit
 
 ## Vocabulary
 
@@ -121,5 +172,8 @@ d# Book 4: World Shift
 * passel - a large group of people or things of indeterminate number; a pack
 * nonplussed - surprised and confused; unsure how to react
 * soporific - tending to induce drowsiness or sleep
+* cloyed - sickened with an excess of sweetness
+* somniloquy - sleep walking
+* quail - fell fear or apprehension
 
-###### dpw | 2024-11-11
+###### dpw | 2024-11-15
