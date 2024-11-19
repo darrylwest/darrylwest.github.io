@@ -26,7 +26,7 @@ K. Gorman
 
 ### Characters:
 
-* Dr Evangeline Sasha - project Eos
+* Dr Evangeline Sasha - project Eos (Eva)
 * Dr Bryan Link - project Eos
 * Drs Elliot and Ben Corringham - brothers that started the programs
 * Dr Soichiro Takahashi - project Eos; now LOST on Kori
@@ -61,7 +61,7 @@ K. Gorman
 
 ### Characters:
 
-* Tian Adan Reeve - Karin's military pilot and bodygaurd
+* Tian Adan Reeve - Nomiki's military pilot and bodygaurd
 * Naser - young doctor at Ajin Pharma
 * Dr Nguyen - 
 * Genevieve - project Artemis
@@ -105,6 +105,16 @@ K. Gorman
 * Lorraine Ganis - Marine Colonel for the Alliance
 * Alice Laang - Martian ambassador
 * Bella Adamiak - Alliance scientist
+* Dr Willioam Somner-Bosch - Seirlin 
+* Kali - Centaurian pilot
+* Captain Arnelli - captain on the Artemide
+* Malouf - Cyborg on, Artemide
+* Regent Nolen - ship Aquila, Artemide
+* Odial Asnet - comms spec, Artemide
+* Leonessa
+* Fiona Travers - bridge first officer, Artemide
+* Tavano - captain of Freccia
+* Seki - femal cyborg
 
 ## Places
 
@@ -157,6 +167,8 @@ K. Gorman
 * Alpha Centauri
 * FSS Courant - Fallon ship piloted by Reeve
 * Finlai Center Core - Centauri nation in orbit
+* Aquila - Centauri ship with Regent Lora Nolen
+* Artemide - Centauri ship the Karin is on
 
 ## Vocabulary
 
@@ -176,4 +188,4 @@ K. Gorman
 * somniloquy - sleep walking
 * quail - fell fear or apprehension
 
-###### dpw | 2024-11-15
+###### dpw | 2024-11-18
