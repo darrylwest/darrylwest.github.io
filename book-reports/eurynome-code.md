@@ -96,6 +96,7 @@ K. Gorman
 * Daniel Lacroix - Centauri technician (captured)
 * Azrikam Devnarth Leisler - Grand Regent of Arms / Menassi TriQuad Alliance / Centauri
 * Sarah Ursule Tillerman - Centauri Commander of Menassi Tri-Quad Alliance
+* Ambassador Lang - mars
 
 ## Book 6: Deos
 
@@ -115,6 +116,10 @@ K. Gorman
 * Fiona Travers - bridge first officer, Artemide
 * Tavano - captain of Freccia
 * Seki - femal cyborg
+* Einine - project scathach
+* Viktor Morewlli - Grand Regent
+* Filix Vollardt - Ensign, Centauri
+* Alin Corringham - Elliot and Grace Corringham's son
 
 ## Places
 
@@ -169,6 +174,7 @@ K. Gorman
 * Finlai Center Core - Centauri nation in orbit
 * Aquila - Centauri ship with Regent Lora Nolen
 * Artemide - Centauri ship the Karin is on
+* Freccia - Centauri ship
 
 ## Vocabulary
 
@@ -187,5 +193,6 @@ K. Gorman
 * cloyed - sickened with an excess of sweetness
 * somniloquy - sleep walking
 * quail - fell fear or apprehension
+* frieze - broad horizontal band of sculpted or painted decoration, on the wall near the ceiling
 
 ###### dpw | 2024-11-18
