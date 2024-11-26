@@ -46,6 +46,25 @@ Hugh Howey
 * Elise - kid
 * Helena - young mother
 
+### Book Two: Shift
+
+* Donald Keene - congressman in 2049, paul's silo architect
+* Paul Thurman - Georgia Senator
+* Charlotte Keene - Donald's sister, deployed in the military, drone pilot
+* Mick Webb - congressman working on Paul's project
+* Helen Keene - Donald's wife
+* Anna Thurman - Paul's daughter, MIT engineer, working on silo project
+* Troy - silo 1 head of operation 50;
+* Merriman - older silo worker; trades with Troy
+* Hal - older silo worker Troy met in cafeteria
+* Charlie Rhodes - governor of Oklahoma, materials for the silo
+* Victor - sili 1, office of Psychological Services
+* Saul - silo 1, lead radio tech
+* Marcus Dent - IT Security, shado wo Deputy Willis
+* Melanie - Marcus's girl friend, works in IT
+* Randall - silo 1, psych office
+* Biggers - head of silo 32
+
 ## Places
 
 * Underground silo - 144 stories, silo 18
@@ -57,6 +76,13 @@ Hugh Howey
 * IT - level 35
 * Down Deep - below level 100
 * Supply - level 110?
+* Washington DC, capitol hill
+* Savana Gorgia
+* CAD-FAC - containment and displsal facility
+* Kramerbooks - coffee shop in DC
+* Fulton county, GA
+* Silo 12 - gone
+* RYT Dwain Medial Center - nanobiology
 
 ## Vocabulary
 
