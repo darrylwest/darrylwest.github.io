@@ -8,6 +8,7 @@
 * grocerie stores: whole foods, trader joes, local
 * starbucks or other coffee shops
 * tesla supercharging stations
+* dispensaries
 
 ### Housing related
 
