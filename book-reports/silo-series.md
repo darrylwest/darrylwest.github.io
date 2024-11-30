@@ -54,7 +54,7 @@ Hugh Howey
 * Mick Webb - congressman working on Paul's project
 * Helen Keene - Donald's wife
 * Anna Thurman - Paul's daughter, MIT engineer, working on silo project
-* Troy - silo 1 head of operation 50;
+* Troy - silo 1 head of operation 50; (Donald)
 * Merriman - older silo worker; trades with Troy
 * Hal - older silo worker Troy met in cafeteria
 * Charlie Rhodes - governor of Oklahoma, materials for the silo
@@ -64,6 +64,8 @@ Hugh Howey
 * Melanie - Marcus's girl friend, works in IT
 * Randall - silo 1, psych office
 * Biggers - head of silo 32
+* Mission - young kid (porter) in silo 18
+* Cam - young kid (porter) in silo 18
 
 ## Places
 
