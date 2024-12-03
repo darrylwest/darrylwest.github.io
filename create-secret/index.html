@@ -239,8 +239,15 @@
       secretPage = secretPage.replaceAll("{{VALUES}}\n", values)
 
       const dataURI = "data:application/octet-stream;base64," + btoa(secretPage)
-      document.getElementById("target_link").setAttribute("href", dataURI)
-      document.getElementById("target_link").hidden = false
+      const tlink = document.getElementById("target_link")
+
+      const ts = new Date().getTime().toString();
+      const filename = "secret-" + ts + ".html";
+
+      tlink.setAttribute("href", dataURI)
+      tlink.hidden = false;
+      tlink.download = filename;
+      tlink.innerText = "save as " + filename";
 
       setMessage("✅ Ready for download")
 
@@ -301,7 +308,7 @@
 </head>
 <body onload="init()">
   <h2>Secret Creator</h2>
-  <h6>Version: 2024.12.03-b<h6>
+  <h6>Version: 2024.12.03-c<h6>
 
   <!-- Inputs -->
 
