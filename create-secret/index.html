@@ -298,10 +298,11 @@
 </head>
 <body onload="init()">
   <h2>Secret Creator</h2>
+  <h6>Version: 2024.12.03<h6>
 
   <!-- Inputs -->
 
-  <div>
+  <div style="display: none;">
     Salt: 0x
     <input type="text" id="salt" size="33" value="❓" required>
     <input type="button" value="🔄" onclick='refreshSalt()'>
@@ -318,7 +319,6 @@
     Password:<br>
     <input type="text" id="password" value="" required>
   </div>
-
 
   <div style="display: none;">
     Password hint:<br>
