@@ -53,7 +53,9 @@
   async function init() {
     await refreshSalt()
     await refreshIV()
+
     setMessage("Select secret type: short message, image, or file")
+    setInputType("message");
   }
 
   async function encrypt() {
@@ -302,14 +304,15 @@
       }
     }
 
-    setMessage("Ready to encrypt 👍")
+    // check that there password and message are not empty
+    // setMessage("Ready to encrypt 👍")
+    setMessage("");
   }
 
   </script>
 </head>
 <body onload="init()">
   <h2>Secret Creator</h2>
-  <h6>Version: 2024.12.04<h6>
 
   <!-- Inputs -->
 
@@ -326,19 +329,10 @@
     </p>
   </div>
 
-  <div>
-    Password:<br>
-    <input type="text" id="password" value="" required>
-  </div>
-
-  <div style="display: none;">
-    Password hint:<br>
-    <textarea rows="8" cols="80" id="password_hint" required></textarea>
-  </div>
 
   <!-- Radio selector for type of secret -->
 
-  <form>
+  <form style="display: none;">
     <input type="radio" id="text_option" name="input_type" value="message" onclick="setInputType('message')">
     <label for="text_option">Message</label>
     <input type="radio" id="image_option" name="input_type" value="image" onclick="setInputType('image')">
@@ -350,8 +344,8 @@
   <!-- Input types, only one visible at time -->
 
   <div id="text_input_div" hidden>
-    <h2>📝 Secret message</h2>
-    <textarea rows="16" cols="80" id="text_input" name="text_content"></textarea>
+    <h2>📝 Enter your secret message here...</h2>
+    <textarea rows="16" cols="90" id="text_input" name="text_content"></textarea>
   </div>
   <div id="image_input_div" hidden>
     <h2>🌆 Secret image</h2>
@@ -360,6 +354,18 @@
   <div id="file_input_div" hidden>
     <h2>📎 Secret File</h2>
     <input type="file" id="file_input" name="file_content">
+  </div>
+
+  <!-- the password -->
+
+  <div>
+    Enter a pass-phrase for this message, minimum 8 characters...<br>
+    <input type="text" id="password" size="60" value="" minlength="8" required>
+  </div>
+
+  <div style="display: none;">
+    Password hint:<br>
+    <textarea rows="8" cols="80" id="password_hint" required></textarea>
   </div>
 
   <!-- Generate button, and Download link -->
@@ -380,5 +386,7 @@
       <textarea rows="8" cols="80" id="cipher"></textarea>
     </div>
   </details>
+
+  <h6>Version: 2024.12.04-beta1 | dpw <h6>
 </body>
 </html>
