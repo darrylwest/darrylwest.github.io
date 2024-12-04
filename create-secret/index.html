@@ -52,12 +52,16 @@
             
             let selectedInputType = ""
 
-                async function init() {
+            async function init() {
                 await refreshSalt()
                 await refreshIV()
 
                 setMessage("Select secret type: short message, image, or file")
                 setInputType("message");
+
+                setTimeout(function() {
+                    alert("Don't fall for a phishing attact! Always verify the address bar is pointed to github.io before entering any data");
+                }, 500);
             }
             
             async function encrypt() {
@@ -311,6 +315,7 @@
               setMessage("");
             }
             
+            
         </script>
     </head>
     <body onload="init()">
@@ -380,7 +385,7 @@
             <a href="https://raincitysoftware.com">help</a>
         </p>
         <h6 style="color: yellow;">
-            Version: 2024.12.05-beta.21 | dpw | <a href="help.html">help</a>
+            Version: 2024.12.05-beta.22 | dpw | <a href="help.html">help</a>
         </h6>
     </body>
 </html>
