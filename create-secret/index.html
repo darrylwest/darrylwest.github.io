@@ -312,7 +312,7 @@
   </script>
 </head>
 <body onload="init()">
-  <h2>Secret Creator</h2>
+  <h2>Secret Message Creator</h2>
 
   <!-- Inputs -->
 
@@ -344,7 +344,7 @@
   <!-- Input types, only one visible at time -->
 
   <div id="text_input_div" hidden>
-    <h2>📝 Enter your secret message here...</h2>
+    <h4>📝 Enter your secret message here...</h4>
     <textarea rows="16" cols="90" id="text_input" name="text_content"></textarea>
   </div>
   <div id="image_input_div" hidden>
@@ -359,8 +359,8 @@
   <!-- the password -->
 
   <div>
-    Enter a pass-phrase for this message, minimum 8 characters...<br>
-    <input type="text" id="password" size="60" value="" minlength="8" required>
+        <h4>Enter a pass-phrase for this message...<h4>
+        <input type="text" id="password" size="60" value="" minlength="8" required>
   </div>
 
   <div style="display: none;">
@@ -371,7 +371,7 @@
   <!-- Generate button, and Download link -->
 
   <div>
-    <button type="button" onclick='createSecret()'>⚡️ Generate secret</button>
+    <button type="button" onclick='createSecret()'>⚡️ Encrypt Message</button>
     <span id="errormsg"></span>
   </div>
   <div>
@@ -380,13 +380,17 @@
 
   <!-- Cipertext -->
 
-  <details>
+  <details style="display: none;">
     <summary>Show ciphertext</summary>
     <div>
       <textarea rows="8" cols="80" id="cipher"></textarea>
     </div>
   </details>
 
-  <h6>Version: 2024.12.04-beta1 | dpw <h6>
+    <p style="display: none;">
+        <a href="https://raincitysoftware.com">help</a>
+    </p>
+
+<h6 style="color: yellow;">Version: 2024.12.04-beta1 | dpw <h6>
 </body>
 </html>
