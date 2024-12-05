@@ -19,126 +19,119 @@
             div {
                 margin: 5px;
             }
-            button {
-                font-size: large;
-                padding: 12px 20px;
-            }
-            input {
-                font-family: monospace;
-                font-size: large;
-            }
-            textarea {
-                font-family: monospace;
-                font-size: large;
-            }
             a {
                 color: white;
             }
             a.download_link {
                 font-size: xx-large;
             }
+            .content {
+                margin: 20px;
+            }
         </style>
     </head>
     <body>
-        <h1>Secret Message Cryptor Help</h1>
+        <div id="content">
+            <h1>Secret Message Cryptor Help</h1>
 
-        <h2>What does this thing do?</h2>
-        <audio controls><source src="help-1.mp3" type="audio/mpeg"></audio>
-        <p>
-            The Cryptor app is a desktop/laptop browser application that takes a text message you enter and encrypts it based on your passphrase. 
-            It then lets you download the result to your personal device (desktop or laptop) as an HTML file embedded with the encrypted data. 
-            From there, you can double-click the downloaded file to render it in a browser and decrypt the text using the same passphrase.
-        </p>
+            <h2>What does this thing do?</h2>
+            <audio controls><source src="help-1.mp3" type="audio/mpeg"></audio>
+            <p>
+                The Cryptor app is a desktop/laptop browser application that takes a text message you enter and encrypts it based on your passphrase. 
+                It then lets you download the result to your personal device (desktop or laptop) as an HTML file embedded with the encrypted data. 
+                From there, you can double-click the downloaded file to render it in a browser and decrypt the text using the same passphrase.
+            </p>
 
-        <p>
-            The typical use case is securly saving a list of hard to remember passwords.
-        </p>
+            <p>
+                The typical use case is securly saving a list of hard to remember passwords.
+            </p>
 
-        <p>
-            The file cannot be decrypted without the passphrase, so it's important to create a phrase that is long enough to be difficult to guess, and easy to remember.
-        <p>
+            <p>
+                The file cannot be decrypted without the passphrase, so it's important to create a phrase that is long enough to be difficult to guess, and easy to remember.
+            <p>
 
-        <h2>Is it secure?</h2>
-        <p>
-            This is a browser application, with no personal data, text, or passphrase going to the server or over the wire. 
-            The encrypted file is only downloaded to your personal device, typically in your downloads folder. 
-            The passphrase never leaves your browser and is not stored in cookies, local storage, etc. 
-            <em>As with all internet applications that prompt for a password or passphrase, you should always check the address bar to verify the domain.</em>
-        </p>
-
-
-        <h2>Pass Phrase Examples</h2>
-        <ul>
-            <li>he who is brave is free.  no?</li>
-            <li>you can totally do this.</li>
-            <li>try a slow count to 10, then speak.</li>
-            <li>choose one thing and go all in. or not.</li>
-            <li>I can, and I Will. Smith.</li>
-        </ul>
-
-        <h2>Steps</h2>
-        <audio controls><source src="help-2.mp3" type="audio/mpeg"></audio>
-        <ol>
-            <li>Enter or copy/paste your message, list of passwords, etc to the message box</li>
-            <li>Enter your passphrase</li>
-            <li>Click the <em>Encrypt Message</em> button</li>
-            <li>Click the <em>Download</em> link</li>
-            <li>Open the downloaded file, enter your passphrase and verity the plain text content</li>
-            <li>(Optional) Move the file to your desktop or other location with an alternate name.</li>
-        </ol>
-
-        <p>
-            Don't forget to close the browser page after verifying the encryption, especially if you are using this in a public setting, like when you have you laptop at a café.
-        </p>
-
-        <p>
-            You can then just leave the file in your downloads folder, or move it to an alternate, or even your desk top.
-            Without the passphrase, it can't be decrypted.  And, the passphrase never gets shared to any browser or other application.
-        </p>
-
-        <h2>Access and Decrypt</h2>
-        <p>
-            Just double click on the file to have it open in your default browser.  Once open, enter the passphrase and click the Decrypt button. 
-            The decrypted text will appear and the password and button will disappear.  
-            Close or refresh the browser page to hide the plain text. 
-            The page will automatically time-out and close after 5 minutes.  
-        </p>
-
-        <h2>Updating Existing File</h2>
-        <p>
-            You can update an existing file by first decrpting it, then copy/past to the a new application session.   
-            Make changes to the text, then re-encrypt and download the new file.
-        </p>
-
-        <h2>What is the number in filename?</h2>
-        <p>
-            The filename <em>secret-####.html</em> is created in the browser using the current date as a timestamp.
-            The timestamp is from javascript's <em>Date.getTime()</em> method.
-        </p>
-
-        <h2>What happens when I click Encrpt Message Button?</h2>
-        <p>
-            The passphrase is used to encrypt the message right in the browser (not a server action).  
-            The resulting cipher text is in the page and appended to the secrets file when you click the download link.
-        </p>
+            <h2>Is it secure?</h2>
+            <p>
+                This is a browser application, with no personal data, text, or passphrase going to the server or over the wire. 
+                The encrypted file is only downloaded to your personal device, typically in your downloads folder. 
+                The passphrase never leaves your browser and is not stored in cookies, local storage, etc. 
+                <em>As with all internet applications that prompt for a password or passphrase, you should always check the address bar to verify the domain.</em>
+            </p>
 
 
-        <h2>Browser Support</h2>
-        <p>This application has been tested on the following Mac OS/OSX (Intel and ARM) desktop browsers...</p>
-        <ul>
-            <li>Chrome</li>
-            <li>Safari</li>
-            <li>Microsoft Edge (for Mac)</li>
-            <li>Duck Duck Go</li>
-            <li>Arc Browser</li>
-            <li>Firefox (mac and linux)</li>
-        </ul>
-        <p><em>Note that this works on desktop/laptop machines but isn't recommended for tables or phones.</em>
+            <h2>Pass Phrase Examples</h2>
+            <ul>
+                <li>he who is brave is free.  no?</li>
+                <li>you can totally do this.</li>
+                <li>try a slow count to 10, then speak.</li>
+                <li>choose one thing and go all in. or not.</li>
+                <li>I can, and I Will. Smith.</li>
+            </ul>
 
-        <h2>Need more security from Internet Attacks?</h2>
-        <p>
-            you can run this application on your own machine...
-        </p>
+            <h2>Steps</h2>
+            <audio controls><source src="help-2.mp3" type="audio/mpeg"></audio>
+            <ol>
+                <li>Enter or copy/paste your message, list of passwords, etc to the message box</li>
+                <li>Enter your passphrase</li>
+                <li>Click the <em>Encrypt Message</em> button</li>
+                <li>Click the <em>Download</em> link</li>
+                <li>Open the downloaded file, enter your passphrase and verity the plain text content</li>
+                <li>(Optional) Move the file to your desktop or other location with an alternate name.</li>
+            </ol>
+
+            <p>
+                Don't forget to close the browser page after verifying the encryption, especially if you are using this in a public setting, like when you have you laptop at a café.
+            </p>
+
+            <p>
+                You can then just leave the file in your downloads folder, or move it to an alternate, or even your desk top.
+                Without the passphrase, it can't be decrypted.  And, the passphrase never gets shared to any browser or other application.
+            </p>
+
+            <h2>Access and Decrypt</h2>
+            <p>
+                Just double click on the file to have it open in your default browser.  Once open, enter the passphrase and click the Decrypt button. 
+                The decrypted text will appear and the password and button will disappear.  
+                Close or refresh the browser page to hide the plain text. 
+                The page will automatically time-out and close after 5 minutes.  
+            </p>
+
+            <h2>Updating Existing File</h2>
+            <p>
+                You can update an existing file by first decrpting it, then copy/past to the a new application session.   
+                Make changes to the text, then re-encrypt and download the new file.
+            </p>
+
+            <h2>What is the number in filename?</h2>
+            <p>
+                The filename <em>secret-####.html</em> is created in the browser using the current date as a timestamp.
+                The timestamp is from javascript's <em>Date.getTime()</em> method.
+            </p>
+
+            <h2>What happens when I click Encrpt Message Button?</h2>
+            <p>
+                The passphrase is used to encrypt the message right in the browser (not a server action).  
+                The resulting cipher text is in the page and appended to the secrets file when you click the download link.
+            </p>
+
+
+            <h2>Browser Support</h2>
+            <p>This application has been tested on the following Mac OS/OSX (Intel and ARM) desktop browsers...</p>
+            <ul>
+                <li>Chrome</li>
+                <li>Safari</li>
+                <li>Microsoft Edge (for Mac)</li>
+                <li>Duck Duck Go</li>
+                <li>Arc Browser</li>
+                <li>Firefox (mac and linux)</li>
+            </ul>
+            <p><em>Note that this works on desktop/laptop machines but isn't recommended for tables or phones.</em>
+
+            <h2>Need more security from Internet Attacks?</h2>
+            <p>
+                you can run this application on your own machine...
+            </p>
+        </div>
 
         <!-- <h2>Screen Shots</h2> -->
         <h2>Beta Version</h2>
