@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Secrets</title>
+        <title>Cryptor</title>
         <meta charset="UTF-8" />
         <link rel="icon" href="favicon.png" type="imagex-icon">
         <style>
@@ -16,23 +16,40 @@
                 margin: 50px;
                 color: white;
             }
-            div {
-                margin: 5px;
-            }
+
             a {
                 color: white;
             }
-            a.download_link {
-                font-size: xx-large;
+
+            /* Make the div responsive */
+            .responsive-div {
+                max-width: 90%; /* Restrict maximum width */
+                width: 100%; /* Allow full width of the screen */
+                margin: 0 auto; /* Center the div horizontally */
+                padding: 20px; /* Add padding for better readability */
+                box-sizing: border-box; /* Include padding in the width */
+                background-color: #f0f0f0; /* Optional: Add a background color */
+                border: 1px solid #ccc; /* Optional: Add a border */
             }
-            .content {
-                margin: 20px;
+
+            /* Make the text responsive */
+            .responsive-div p {
+                font-size: 1rem; /* Base font size */
+                line-height: 1.5; /* Improve readability */
+                word-wrap: break-word; /* Ensure long words break */
+            }
+
+            /* Optional: Adjust font size on smaller screens */
+            @media (max-width: 600px) {
+                .responsive-div p {
+                    font-size: 0.9rem;
+                }
             }
         </style>
     </head>
     <body>
-        <div id="content">
-            <h1>Secret Message Cryptor Help</h1>
+        <div id="responsive-div">
+            <h1>Cryptor Application Help</h1>
 
             <h2>What does this thing do?</h2>
             <audio controls><source src="help-1.mp3" type="audio/mpeg"></audio>
@@ -88,12 +105,13 @@
                 Without the passphrase, it can't be decrypted.  And, the passphrase never gets shared to any browser or other application.
             </p>
 
-            <h2>Access and Decrypt</h2>
+            <h2>How to Access and Decrypt your download?</h2>
+            <audio controls><source src="help-3.mp3" type="audio/mpeg"></audio>
             <p>
-                Just double click on the file to have it open in your default browser.  Once open, enter the passphrase and click the Decrypt button. 
-                The decrypted text will appear and the password and button will disappear.  
-                Close or refresh the browser page to hide the plain text. 
-                The page will automatically time-out and close after 5 minutes.  
+                To access your secrets file, navigate to the file using Finder and double-click it. 
+                Once the file opens, enter the passphrase and click the Decrypt button. The decrypted text will appear, and the password field and button will disappear. 
+                To hide the plaintext, close or refresh the browser page. 
+                The page will automatically time out and close after 5 minutes.
             </p>
 
             <h2>Updating Existing File</h2>
@@ -121,16 +139,26 @@
                 <li>Chrome</li>
                 <li>Safari</li>
                 <li>Microsoft Edge (for Mac)</li>
+                <li>Firefox (mac and linux)</li>
                 <li>Duck Duck Go</li>
                 <li>Arc Browser</li>
-                <li>Firefox (mac and linux)</li>
             </ul>
+            <p>Any browser that uses the latest version (as of 2023) of WebKit should work.</p>
             <p><em>Note that this works on desktop/laptop machines but isn't recommended for tables or phones.</em>
 
-            <h2>Need more security from Internet Attacks?</h2>
-            <p>
-                you can run this application on your own machine...
-            </p>
+            <div style="display: none;">
+                <!-- need to develop an installer for this; maybe a clone of miniserve with embedded cryptor files? -->
+                <h2>Need more security from Internet Attacks?</h2>
+                <p>
+                    A more secure use of the Cryptor Application is to download the source code and run it on your own machine.  
+                    The requirement is that you need to run an https (secure sockets) server.
+                    I use <a href="https://docs.rs/crate/miniserve/latest">miniserve</a> using the following command: 
+                </p>
+                <code>miniserve -p 2024 --index index.html --tls-cert cert.pem --tls-key key.pem</code>
+                <p>
+                    You can install miniserve on an OSX/mac with brew.
+                </p>
+            </div>
         </div>
 
         <!-- <h2>Screen Shots</h2> -->
