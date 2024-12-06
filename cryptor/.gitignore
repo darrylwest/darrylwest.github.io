@@ -1,2 +1,3 @@
 *.pem
 serve.sh
+cryptor-server
