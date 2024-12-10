@@ -45,11 +45,13 @@
             font-size: xx-large;
         }
     </style>
+    <script src="version.js"></script>
     <script>
         const blockSize = 16 // bytes (for AES, IV)
         const saltSize = 16 // bytes (for PBKDF2)
         const iterations = 1000000 // key derivation (with PBKDF2)
         const keySize = 32 // bytes (derived with PBKDF2, used by AES)
+
 
         const inputElementIds = {
             "message": "text_input_div",
@@ -65,6 +67,7 @@
 
             setMessage("Select secret type: short message, image, or file")
             setInputType("message");
+            setVersion();
 
             setTimeout(function () {
                 alert("Don't fall for a phishing attact! Always verify the address bar is pointed to github.io before entering any data");
@@ -139,6 +142,7 @@
 
             let plainText = new Uint8Array()
             let fileExtension = ""
+
             // TODO move this messy stuff out of encrypt path
             // TODO handle files with no extension (currently captures full filename as extension)
             // TODO file and image are identical except for input field
@@ -253,6 +257,7 @@
                 secretPage = pageTemplate
                 secretPage = secretPage.replaceAll("{{PASSWORD_HINT}}", passwordHint)
                 secretPage = secretPage.replaceAll("{{VALUES}}\n", values)
+                secretPage = secretPage.replaceAll("{{VERSION}}", AppVersion);
 
                 const dataURI = "data:application/octet-stream;base64," + btoa(secretPage)
                 const tlink = document.getElementById("target_link")
@@ -395,8 +400,7 @@
         <a href="https://raincitysoftware.com">help</a>
     </p>
     <h6 style="color: yellow;">
-        Version: 2024.12.05-beta.31 | <a href="help.html">help</a>
+        Version: <span id="version"></span> | <a href="terms-of-use.html">Terms of Use</a> | <a href="license.html">License</a> | <a href="help.html">Help</a>
     </h6>
 </body>
-
 </html>
