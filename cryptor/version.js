@@ -1,5 +1,5 @@
 
-const AppVersion = '24.12.17-beta.35';
+const AppVersion = '24.12.22-beta.36';
 
 function setVersion() {
     const vel = document.getElementById('version');
